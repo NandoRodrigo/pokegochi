@@ -1,0 +1,19 @@
+body,
+header,
+main,
+section,
+aside,
+h1,
+p,
+button {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: inherit;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
